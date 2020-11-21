@@ -1,0 +1,26 @@
+{
+  "name": "model-generator",
+  "version": "1.0.0",
+  "description": "A CLI for generating models in Angular through swagger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmalicdem45/angular-model-generator.git"
+  },
+  "keywords": [
+    "angular",
+    "cli",
+    "model",
+    "generator",
+    "swagger"
+  ],
+  "author": "Jeremiah Malicdem / Codekage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmalicdem45/angular-model-generator/issues"
+  },
+  "homepage": "https://github.com/jmalicdem45/angular-model-generator#readme"
+}
