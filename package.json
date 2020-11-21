@@ -1,6 +1,6 @@
 {
   "name": "@codekage/model-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI for generating models in Angular through swagger",
   "main": "./bin/index.js",
   "scripts": {
